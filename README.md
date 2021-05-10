@@ -1,4 +1,5 @@
 # Global-Wheat-Detection
+
 This case study is focussed on detecting wheat heads from outdoor images of
 wheat plants, including wheat datasets from around the globe. Using worldwide
 data, you will focus on a generalized solution to estimate the number and size of
